@@ -1,0 +1,3 @@
+C:/Users/mtarn/CLionProjects/prog_proj_fin/cmake-build-debug/CMakeFiles/prog_proj_fin.dir
+C:/Users/mtarn/CLionProjects/prog_proj_fin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mtarn/CLionProjects/prog_proj_fin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
